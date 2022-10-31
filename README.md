@@ -1,2 +1,0 @@
-# BOT-TWEEPY
-bot retweet
